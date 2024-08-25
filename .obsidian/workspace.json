@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001-Zettlecasten/ideas/design/IDEA-actors-definition.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "001-Zettlecasten/ideas/design/IDEA-actors-definition.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001-Zettlecasten/ideas/design/IDEA-actors-definition.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001-Zettlecasten/ideas/design/IDEA-actors-definition.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001-Zettlecasten/ideas/design/IDEA-actors-definition.md"
+                "file": "README.md"
               }
             }
           },
@@ -235,9 +235,10 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "461fc0523e5e19de",
+  "active": "0912eb811c071592",
   "lastOpenFiles": [
     "README.md",
+    "001-Zettlecasten/ideas/design/IDEA-actors-definition.md",
     "LICENSE",
     "diagrams-best-practices/README.md",
     "diagrams-best-practices/LICENSE",
@@ -258,7 +259,6 @@
     "001-Zettlecasten/ideas/design/IDEA-boundary-definition.md",
     "001-Zettlecasten/ideas/design/IDEA-boundary-example-sub-system-boundary.md",
     "001-Zettlecasten/ideas/design/IDEA-boundary-example-system-boundary.md",
-    "001-Zettlecasten/ideas/design/IDEA-actors-definition.md",
     "001-Zettlecasten/ideas/design/IDEA-actors-example-external-system.md",
     "001-Zettlecasten/ideas/design/IDEA-actors-example-user.md",
     "001-Zettlecasten/ideas/design/IDEA-key-elements-actors.md",
