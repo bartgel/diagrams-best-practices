@@ -1,0 +1,278 @@
+{
+  "main": {
+    "id": "7975a580d970b5d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "af130582261ad75f",
+        "type": "tabs",
+        "dimension": 55.55555555555556,
+        "children": [
+          {
+            "id": "0912eb811c071592",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001-Zettlecasten/ideas/design/IDEA-actors-definition.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "b22479c74a8d8ec1"
+          }
+        ]
+      },
+      {
+        "id": "7ebf31c3bc483548",
+        "type": "tabs",
+        "dimension": 44.44444444444444,
+        "children": [
+          {
+            "id": "517b98ad3761500f",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "001-Zettlecasten/ideas/design/IDEA-actors-definition.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            },
+            "group": "b22479c74a8d8ec1"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1d46f2ae5ccfce58",
+    "type": "split",
+    "children": [
+      {
+        "id": "b344c74ba83e74fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "461fc0523e5e19de",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "80eb93a85fc3a260",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8c0a8f309da1a87e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 434.5
+  },
+  "right": {
+    "id": "28383b56a3f56f29",
+    "type": "split",
+    "children": [
+      {
+        "id": "54ca07bfe1e64806",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24b7f6992f84502b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "001-Zettlecasten/ideas/design/IDEA-actors-definition.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b221711ff434a9f2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "001-Zettlecasten/ideas/design/IDEA-actors-definition.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2e7dd3eb5b9d1bda",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9195636e9673d28a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "001-Zettlecasten/ideas/design/IDEA-actors-definition.md"
+              }
+            }
+          },
+          {
+            "id": "97256c64ca539b17",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "57ec9f4e6f06a0cd",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          },
+          {
+            "id": "d12cbef0b388aeab",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "64a953cda7f32f30",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "04af140535eba624",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "juggl:Juggl global graph": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
+    }
+  },
+  "active": "461fc0523e5e19de",
+  "lastOpenFiles": [
+    "README.md",
+    "LICENSE",
+    "diagrams-best-practices/README.md",
+    "diagrams-best-practices/LICENSE",
+    "diagrams-best-practices",
+    "001-Zettlecasten/ideas/design/IDEA-key-elements-interaction.md",
+    "001-Zettlecasten/theme/best-practices/THEME-inprogress-10-use-right-tools.md",
+    "001-Zettlecasten/theme/best-practices/THEME-inprogress-2-choose-right-diagram.md",
+    "010-Test/test1.md",
+    "001-Zettlecasten/theme/best-practices/THEME-Best-Practices-07-key-elements.md",
+    "001-Zettlecasten/ideas/design/IDEA-purpose-goal-convey-component-interaction.md",
+    "001-Zettlecasten/ideas/design/IDEA-interaction-arrow-or-line.md",
+    "001-Zettlecasten/ideas/design/IDEA-interaction-definition.md",
+    "001-Zettlecasten/ideas/design/IDEA-key-elements-components.md",
+    "001-Zettlecasten/ideas/design/IDEA-component-definition.md",
+    "001-Zettlecasten/ideas/design/IDEA-component-example-database.md",
+    "001-Zettlecasten/ideas/design/IDEA-component-example-service.md",
+    "001-Zettlecasten/ideas/design/IDEA-key-elements-boundaries.md",
+    "001-Zettlecasten/ideas/design/IDEA-boundary-definition.md",
+    "001-Zettlecasten/ideas/design/IDEA-boundary-example-sub-system-boundary.md",
+    "001-Zettlecasten/ideas/design/IDEA-boundary-example-system-boundary.md",
+    "001-Zettlecasten/ideas/design/IDEA-actors-definition.md",
+    "001-Zettlecasten/ideas/design/IDEA-actors-example-external-system.md",
+    "001-Zettlecasten/ideas/design/IDEA-actors-example-user.md",
+    "001-Zettlecasten/ideas/design/IDEA-key-elements-actors.md",
+    "001-Zettlecasten/theme/best-practices/THEME-inprogress-3-standaard-notation.md",
+    "001-Zettlecasten/theme/best-practices/THEME-Best-Practices.md",
+    "001-Zettlecasten/theme/best-practices/THEME-inprogress-8-labels-and-annotations.md",
+    "001-Zettlecasten/ideas/design/IDEA-Labeling.md",
+    "001-Zettlecasten/theme/best-practices",
+    "900-references",
+    "100-presentations/20240823",
+    "100-presentations",
+    "001-Zettlecasten/ideas/utils",
+    "001-Zettlecasten/ideas/checklist",
+    "001-Zettlecasten/tools",
+    "Untitled.canvas"
+  ]
+}
