@@ -6,7 +6,7 @@ Tags:
 # Best practices
 
 - ![[THEME-Best-Practices-01-understand-purpose]]
-- ![[THEME-inprogress-2-choose-right-diagram]]
+- ![[THEME-Best-Practices-02-choose-right-diagram]]
 - ![[THEME-inprogress-3-standaard-notation]]
 - ![[THEME-Best-Practices-04-simplicity]]
 - ![[THEME-Best-practices-05-layering]]

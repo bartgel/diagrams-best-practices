@@ -6,7 +6,7 @@
       {
         "id": "af130582261ad75f",
         "type": "tabs",
-        "dimension": 55.55555555555556,
+        "dimension": 63.77277599142551,
         "children": [
           {
             "id": "0912eb811c071592",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "001-Zettlecasten/theme/best-practices/THEME-inprogress-3-standaard-notation.md",
                 "mode": "source",
                 "source": true
               }
@@ -26,7 +26,7 @@
       {
         "id": "7ebf31c3bc483548",
         "type": "tabs",
-        "dimension": 44.44444444444444,
+        "dimension": 36.227224008574495,
         "children": [
           {
             "id": "517b98ad3761500f",
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "001-Zettlecasten/theme/best-practices/THEME-inprogress-3-standaard-notation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -114,7 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 434.5
+    "width": 383.5
   },
   "right": {
     "id": "28383b56a3f56f29",
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "001-Zettlecasten/theme/best-practices/THEME-inprogress-3-standaard-notation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "001-Zettlecasten/theme/best-practices/THEME-inprogress-3-standaard-notation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "001-Zettlecasten/theme/best-practices/THEME-inprogress-3-standaard-notation.md"
               }
             }
           },
@@ -237,6 +237,20 @@
   },
   "active": "0912eb811c071592",
   "lastOpenFiles": [
+    "001-Zettlecasten/theme/best-practices/THEME-Best-Practices-02-choose-right-diagram.md",
+    "001-Zettlecasten/theme/best-practices/THEME-Best-Practices.md",
+    "001-Zettlecasten/theme/best-practices/THEME-inprogress-3-standaard-notation.md",
+    "001-Zettlecasten/theme/best-practices/THEME-inprogress-10-use-right-tools.md",
+    "001-Zettlecasten/ideas/IDEA-diagrams-types-sequence-diagram-interaction-between-components.md",
+    "001-Zettlecasten/ideas/IDEA-diagrams-types-flowchart-diagram-represents-workflows-or-algorithm.md",
+    "001-Zettlecasten/ideas/IDEA-diagrams-types-deployment-illustrate-the-physical-deployment-of-soft-and-hardware.md",
+    "001-Zettlecasten/ideas/IDEA-diagrams-types-context-diagram-show-interactions.md",
+    "001-Zettlecasten/ideas/IDEA-diagrams-types-component-diagram-show-components-and-relations.md",
+    "001-Zettlecasten/ideas/IDEA-diagrams-types-component-diagram.md",
+    "001-Zettlecasten/ideas/IDEA-diagrams-types-sequence-diagram.md",
+    "001-Zettlecasten/ideas/IDEA-diagrams-types-flowchart-diagram.md",
+    "001-Zettlecasten/ideas/IDEA-diagrams-types-deployment-diagram.md",
+    "001-Zettlecasten/ideas/IDEA-diagrams-types-context-diagram.md",
     "README.md",
     "001-Zettlecasten/ideas/design/IDEA-actors-definition.md",
     "LICENSE",
@@ -244,8 +258,6 @@
     "diagrams-best-practices/LICENSE",
     "diagrams-best-practices",
     "001-Zettlecasten/ideas/design/IDEA-key-elements-interaction.md",
-    "001-Zettlecasten/theme/best-practices/THEME-inprogress-10-use-right-tools.md",
-    "001-Zettlecasten/theme/best-practices/THEME-inprogress-2-choose-right-diagram.md",
     "010-Test/test1.md",
     "001-Zettlecasten/theme/best-practices/THEME-Best-Practices-07-key-elements.md",
     "001-Zettlecasten/ideas/design/IDEA-purpose-goal-convey-component-interaction.md",
@@ -254,18 +266,6 @@
     "001-Zettlecasten/ideas/design/IDEA-key-elements-components.md",
     "001-Zettlecasten/ideas/design/IDEA-component-definition.md",
     "001-Zettlecasten/ideas/design/IDEA-component-example-database.md",
-    "001-Zettlecasten/ideas/design/IDEA-component-example-service.md",
-    "001-Zettlecasten/ideas/design/IDEA-key-elements-boundaries.md",
-    "001-Zettlecasten/ideas/design/IDEA-boundary-definition.md",
-    "001-Zettlecasten/ideas/design/IDEA-boundary-example-sub-system-boundary.md",
-    "001-Zettlecasten/ideas/design/IDEA-boundary-example-system-boundary.md",
-    "001-Zettlecasten/ideas/design/IDEA-actors-example-external-system.md",
-    "001-Zettlecasten/ideas/design/IDEA-actors-example-user.md",
-    "001-Zettlecasten/ideas/design/IDEA-key-elements-actors.md",
-    "001-Zettlecasten/theme/best-practices/THEME-inprogress-3-standaard-notation.md",
-    "001-Zettlecasten/theme/best-practices/THEME-Best-Practices.md",
-    "001-Zettlecasten/theme/best-practices/THEME-inprogress-8-labels-and-annotations.md",
-    "001-Zettlecasten/ideas/design/IDEA-Labeling.md",
     "001-Zettlecasten/theme/best-practices",
     "900-references",
     "100-presentations/20240823",

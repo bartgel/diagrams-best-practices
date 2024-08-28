@@ -1,10 +1,11 @@
 ---
 Tags:
-  - THEME
+  - IDEA
 ---
 
+# Context Diagrams
 
-# Best practices: Choose right Type of diagram
+- ![[IDEA-diagrams-types-context-diagram-show-interactions]]
 
 ```mermaid
 mindmap
