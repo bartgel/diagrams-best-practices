@@ -6,8 +6,17 @@ Tags:
 
 # Best practices
 
-- ![[THEME-Best-Practices-01-understand-purpose]]
-- 
+- ![[IDEA-notation-uml]]
+- ![[IDEA-notation-SysML]]
+- ![[IDEA-notation-network]]
+- ![[IDEA-notation-gantt]]
+- ![[IDEA-notation-flowchart]]
+- ![[IDEA-notation-erd]]
+- ![[IDEA-notation-dfd]]
+- ![[IDEA-notation-bpm]]
+- ![[IDEA-notation-ArchiMate]]
+- ![[IDEA-notation-why]]
+-
 ```mermaid
 mindmap
     Best Practices
